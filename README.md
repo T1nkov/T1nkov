@@ -6,6 +6,8 @@ I am a Full Stack Developer
 applications.
 - 💬 Ask me about anything, I am happy to help.
 - :mailbox: How to reach me: mrfredyon@gmail.com
+- Tg: @t1nkov
+
 <!--
 **T1nkov/T1nkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
